@@ -1,0 +1,15 @@
+body{
+    background-color: #f1faee;
+}
+
+h1,h2{
+    color: #1d3557;
+}
+
+button{
+    background-color: #a8dadc;
+}
+#signup{
+    background-color: #1d3557;
+    color: #a8dadc;;
+}

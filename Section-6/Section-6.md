@@ -18,5 +18,13 @@
 ### External stylesheet
 - Write your styles in a .css file and then include the using a <link> in the head of your html document. RECOMMENDED!
 
+### HEX
+- Still red, green, and blue channels
+- Each ranges from 0-255 represented with hexadecimal
+- is base 16
+
+### Font-size
+- Relative and Absolute font size values
+- Absolute untis are not recommeneded for responsive webistes
 
 

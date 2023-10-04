@@ -23,3 +23,27 @@ span{
     color: #f1faee;
     font-size: 16px;
 }
+
+.post a{
+    color: #457b9d;
+}
+
+footer a{
+    color: #e63946;
+}
+
+.post button:hover {
+    background-color: #e63946;
+    color: #f1faee;
+}
+
+.post a:hover{
+    text-decoration: underline;
+}
+.post button:active{
+    background-color: #02c39a;
+}
+
+.post:nth-of-type(3n){
+    background-color: #dfe8dc;
+}

@@ -11,3 +11,33 @@
 
 ### Class selector
 - Class can be applied to multiply elements 
+
+### Descendant selector
+- select all <a>'s that are nested inside an <li>
+- li a {
+    colour: teal;
+}
+### Adjacent Selector
+- select only the paragraphs that are immediately preceded by an <h1>
+ - h1 + p
+
+ ### Direct child
+ - select only the <li>'s that are direct children of a <div> element
+ - div > li
+
+ ### Attribute selector
+ - Select all input elements where the type attrubute is set to "text
+ - input[type="text"]
+
+ ### Pseudo classes
+ - keyword added to a selector that specifies a special state of the selected element(s)
+ - :active
+ - :checked 
+ etc
+
+ ### Pseudo elements
+ - keyword added to a selctor that lets you style a particular part of selected elements
+
+ - :: after
+ - :: before
+ etc

@@ -41,3 +41,9 @@
  - :: after
  - :: before
  etc
+
+ ### Specificity
+ - Specificity is how the brower decides which rules to apply when multiple rules could apply to the same elemts. 
+
+ - It is a measure of how specific a given selector is. The more specific selector "wins"
+
